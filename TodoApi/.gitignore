@@ -1,0 +1,64 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+[Bb]in/
+[Ll]og/
+[Ll]ogs/
+ 
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.dbproj.schemaview
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Entity Framework Core
+*.db
+
+# ASP.NET Core files
+wwwroot/lib/
+wwwroot/css/
+wwwroot/js/
+
+# Docker
+**/Dockerfile
+**/docker-compose*.yml
+**/docker-compose*.yaml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+*.env.local
+
+# Logs
+*.log
+
+# Other
+*.pdb
+*.db
+*.jfm
+*.jfm.*
